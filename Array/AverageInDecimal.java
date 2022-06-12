@@ -26,5 +26,3 @@ public class practicing {
 	}
 }
 
-
-	[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[D[D[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[AverageInDecimal{
