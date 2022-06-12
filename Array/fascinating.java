@@ -1,3 +1,4 @@
+//Given a number N. Your task is to check whether it is fascinating or not.
 import  java.util.*;
 
 class Solution {
@@ -16,7 +17,7 @@ class Solution {
     }
 }
 
-public class starpattern {
+public class fascinating{
 
 	public static void main(String[] args) {
 		
